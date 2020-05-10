@@ -1,0 +1,103 @@
+body{
+    font-family: 'Montserrat';
+    width:100%;
+}
+
+.hdr{
+padding: 8rem !important;}
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.titletext{
+    color:white;
+    font-weight: 700;
+    
+}
+.subtitletext{
+    color:white;
+    font-weight: 500;
+}
+
+.startbtn {
+	background-color:#f2b705;
+	border-radius:28px;
+	display:inline-block;
+	color:#9b70ff;
+    font-weight: 700;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+    
+}
+.startbtn:hover {
+	background-color:#f2b705;
+    text-decoration: none;
+}
+
+.textsub{
+    font-weight: 500;
+}
+.imgmask{
+    max-width:10%;
+}
+.covid{
+    padding:100px 100px 50px 100px;
+}
+.covip{
+    font-weight:70;
+}
+.textbig{
+    font-weight:700;
+    font-size: 2em;
+}
+.offer{
+    max-width: 60%;
+}
+.offer{
+    max-width: 60%;
+}
+.offertext{
+    padding-top: 20px;
+        padding-bottom:50px;
+
+}
+.imgmoney{
+    max-width: 100%;
+}
+.money{
+    padding-bottom:50px;
+}
+.cities{
+    padding: 0px 0px 20px 0px;
+}
+.allcities{
+    padding: 20px 0px 50px 0px;
+        
+}
+
+.featpic{
+    max-width: 60%
+}
+
+.feat{
+    background-color: #f29f05;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.featsmtxt{
+    font-weight:700;
+}
+.quotes{
+    max-width: 10%;
+}
+.testi{
+    padding-top: 50px;
+}
+.testi p{
+    font-size:1.2em;
+}
