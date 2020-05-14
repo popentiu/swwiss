@@ -101,3 +101,12 @@ padding: 8rem !important;}
 .testi p{
     font-size:1.2em;
 }
+
+footer{
+    background-color: #593b02;
+    color: white;
+    padding-top: 20px;
+}
+footer .fa{
+    color: white;
+}
